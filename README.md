@@ -7,3 +7,4 @@ Coded in Javascript, HTML and CSS.
 * Does not yet sort "classes" in order of time
 * Adding classes after deleting causes a glitch with the am / pm checkboxes
 * Creates a schedule output even if all info is not yet entered
+* No input validation
